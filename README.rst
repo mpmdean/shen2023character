@@ -5,10 +5,25 @@ Source code and data files for the manuscript Electronic character of charge ord
 
 How to cite
 -----------
-If this data is used, please cite
+If this data is used, please cite Electronic character of charge order in square planar low valence nickelates, Y. Shen, J. Sears, G. Fabbris, J. Li, J. Pelliciari, M. Mitrano, W. He, Junjie Zhang, J. F. Mitchell, V. Bisogni, M. R. Norman, S. Johnston, and M. P. M. Dean, accepted in Phys. Rev. X.
 
-The discovery of superconductivity in square planar low valence nickelates has ignited a vigorous debate regarding their essential electronic properties: Do these materials have appreciable oxygen charge-transfer character akin to the cuprates or are they in a distinct Mott-Hubbard regime where oxygen plays a minimal role? Here, we resolve this question using O K-edge Resonant Inelastic X-ray Scattering (RIXS) measurements of the low valence nickelate La4Ni3O8 and a prototypical cuprate La2−xSrxCuO4 (x = 0.35). As expected, the cuprate lies deep in the charge-transfer regime of the Zaanen-Sawatzky-Allen (ZSA) scheme. The nickelate, however, is not well-described by either limit of the ZSA scheme and is found to be of mixed charge-transfer / Mott-Hubbard character with the Coulomb repulsion U of similar size to the charge transfer energy ∆. Nevertheless, the transition-metal-oxygen hopping is larger in La4Ni3O8 than in La2−xSrxCuO4, leading to a significant superexchange interaction and an appreciable hole occupation of the ligand O orbitals in La4Ni3O8 despite its larger ∆. Our results clarify the essential characteristics of low valence nickelates and put strong constraints on theoretical interpretations of superconductivity in these
-materials.
+Charge order is a central feature of the physics of cuprate
+superconductors and is known to arise from a modulation of holes with
+primarily oxygen character. Low-valence nickelate superconductors also
+host charge order, but the electronic character of this symmetry
+breaking is unsettled. Here, using resonant inelastic x-ray scattering
+at the Ni :math:`L_2`-edge, we identify intertwined involvements of Ni
+:math:`3d_{x^2-y^2}`, :math:`3d_{3z^2-r^2}`, and O :math:`2p_{\sigma}`
+orbitals in the formation of diagonal charge order in an overdoped
+low-valence nickelate
+La\ :math:`_{4}`\ Ni\ :math:`_{3}`\ O\ :math:`_{8}`. The Ni
+:math:`3d_{x^2-y^2}` orbitals, strongly hybridized with planar O
+:math:`2p_{\sigma}`, largely shape the spatial charge distribution and
+lead to Ni site-centered charge order. The :math:`3d_{3z^2-r^2}`
+orbitals play a small, but non-negligible role in the charge order as
+they hybridize with the rare-earth :math:`5d` orbitals. Our results
+reveal that the low-energy physics and ground-state character of these
+nickelates are more complex than those in cuprates.
 
 Run locally
 -----------
