@@ -5,7 +5,7 @@ Source code and data files for the manuscript Electronic character of charge ord
 
 How to cite
 -----------
-If this data is used, please cite Electronic character of charge order in square planar low valence nickelates, Y. Shen, J. Sears, G. Fabbris, J. Li, J. Pelliciari, M. Mitrano, W. He, Junjie Zhang, J. F. Mitchell, V. Bisogni, M. R. Norman, S. Johnston, and M. P. M. Dean, accepted in Phys. Rev. X.
+If this data is used, please cite Electronic character of charge order in square planar low valence nickelates, Y. Shen, J. Sears, G. Fabbris, J. Li, J. Pelliciari, M. Mitrano, W. He, Junjie Zhang, J. F. Mitchell, V. Bisogni, M. R. Norman, S. Johnston, and M. P. M. Dean, Phys. Rev. X. 13, 011021 (2023)
 
 Charge order is a central feature of the physics of cuprate
 superconductors and is known to arise from a modulation of holes with
